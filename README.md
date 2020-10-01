@@ -12,6 +12,6 @@ The bot only has one command, which is `!fee <amount>` and it will reply with a 
 
 ### Example
 
-When given the command `!fee 50`, this is what it will reply:
+When given the command `!fee 50`, this is what it will show in output:
 
 ![Discord Bot Reply](https://i.imgur.com/Jnl7ELh.png)
